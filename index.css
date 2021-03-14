@@ -13,3 +13,16 @@ body {
     background-color: lightblue;
     padding: 10px;
 }
+
+
+.project-content {
+    display: inline-block;
+    text-align: left;
+    vertical-align: top;
+    margin: 45px 50px 50px 50px;
+}
+
+.project-thumbnail {
+    display: inline-block;
+    height: 256px;
+}
