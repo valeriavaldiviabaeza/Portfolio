@@ -5,8 +5,9 @@ body {
 }
 
 .about {
-    background-color: lightblue;
-    padding: 0px;
+    background-color: black;
+    color: white;
+    padding: 10px;
 }
 
 .projects {
